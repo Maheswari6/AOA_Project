@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main
+public class MarsBase
 {
     public static int[] task1(int[] arr,int n) {
         int[] result = new int[3]; //result contains start_index, end_index, max_sum 
