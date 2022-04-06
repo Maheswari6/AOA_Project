@@ -2,5 +2,5 @@ all: Target
 
 Target:
 	javac MarsBase.java
-	cp test.txt MarsBase
+	cp test MarsBase
 	chmod 777 MarsBase
